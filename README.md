@@ -13,3 +13,4 @@
    `npm run build`
 
 **欢迎fork以改进优化页面**
+[README SPANISH](ttps://github.com/ThonyDroidYT/trojan-web/blob/master/README_ES.md)
